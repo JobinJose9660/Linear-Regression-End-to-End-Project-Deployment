@@ -18,7 +18,7 @@ Once we have the data source fixed, the machine learning approach majorly consis
 The Training Pipeline -The training pipeline includes data pre-processing, selecting the right algorithm for creating the machine learning model, checking the accuracy of the created model and then saving the model file.
 
 ### The Testing Pipeline 
-Once the training is completed, we need to expose the trained model as an API for the user to consume it. For prediction, the saved model is loaded first and then the predictions are made using it. If the web app works fine, the same app is deployed to the cloud platform.
+Once the training is completed, we need to expose the trained model as an API for the user to consume it. For prediction, the saved model is loaded first and then the predictions are made using it. thensame app is deployed to the  AZURE cloud platform.
 
 ## Data Set Information
 - <class 'pandas.core.frame.DataFrame'>
